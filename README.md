@@ -1,5 +1,5 @@
 # Python-Key-Logger
-Final Project for my Python class (CIS-30A) 
+###Final Project for my Python class (CIS-30A) 
 
 **What problems are you solving in this project?**
 A key logger can be used in many ways… For example:
@@ -16,7 +16,7 @@ A key logger can be used in many ways… For example:
 - Pynput has a built-in function that seems to be a loop that is always checking for key presses. All I have to do is collect what it detects then feed it into a .txt file and check if the Esc key is pressed to stop the program.
 
 **What are the program objectives?**
--Upon running the program, it should start listening for all keypresses from the keyboard and put it into a text file.
+- Upon running the program, it should start listening for all keypresses from the keyboard and put it into a text file.
 
 **Explain how your program is interacting with the user and its purpose.**
 - User has to run the .py file through a text editor
