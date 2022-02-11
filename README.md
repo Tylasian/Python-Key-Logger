@@ -1,5 +1,6 @@
 # Python-Key-Logger
 ## Final Project for my Python class (CIS-30A)
+### DOCUMENTATION
 
 **What problems are you solving in this project?**
 * A key logger can be used in many ways… For example:
