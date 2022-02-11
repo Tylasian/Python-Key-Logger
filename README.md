@@ -1,13 +1,13 @@
 # Python-Key-Logger
-###Final Project for my Python class (CIS-30A) 
+## Final Project for my Python class (CIS-30A)
 
 **What problems are you solving in this project?**
-A key logger can be used in many ways… For example:
-- Hackers can gather emails, usernames, passwords, bank details from a victim.
-- Parents can monitor a child’s computer activities.
-- Schools can monitor a student’s computer activities to make sure that the computer is being used appropriately.
-- Workplaces can monitor an employee’s computer activities to make sure that the employee is on task during work hours. 
-- Developers can use it to debug their programs. If an error/bug occurs, they can check to see if certain keyboard inputs caused it.
+* A key logger can be used in many ways… For example:
+  - Hackers can gather emails, usernames, passwords, bank details from a victim.
+  - Parents can monitor a child’s computer activities.
+  - Schools can monitor a student’s computer activities to make sure that the computer is being used appropriately.
+  - Workplaces can monitor an employee’s computer activities to make sure that the employee is on task during work hours. 
+  - Developers can use it to debug their programs. If an error/bug occurs, they can check to see if certain keyboard inputs caused it.
 
 **What solutions are you implementing in the project?**
 - Usage of the library called “Pynput” gives me functions that allow me to easily listen for key presses and mouse movements.
